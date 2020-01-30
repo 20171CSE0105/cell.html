@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Assignment</title>
+</head>
+<body>
+bgcolor=#07BDE2>
+<h1 align='center'>Submission Status</h1>
+<p><i><b>Assignment submission is successfull!</b></i></p>
+<p> the grades will be uploaded soon</p>
+
+<hr />
+<p align='right'><b>Thank you</p>
+</body>
+</html>
